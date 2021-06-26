@@ -2,7 +2,7 @@
 
 CLI Tool to facilitate the SSM connection to EC2s instances in AWS
 
-![](./image.png)
+![Screenshot from 2021-06-25 21-25-37](https://user-images.githubusercontent.com/79537306/123496726-e4fb8e00-d5ff-11eb-9851-a3dd0183366e.png)
 
 # Dependencies
 
