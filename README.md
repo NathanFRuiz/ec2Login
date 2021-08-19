@@ -10,6 +10,7 @@ CLI Tool to facilitate the SSM connection to EC2s instances in AWS
 2. AWS CLI (https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 3. SSM Session-Manager Plugin (https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html)
 4. Python dependencies on requirements.txt (pip install -r requirements.txt)
+5. dialog (usually comes with linux, but can be installed otherwise with apt-get install dialog)
 
 # Install
 
